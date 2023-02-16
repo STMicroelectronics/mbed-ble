@@ -2,7 +2,7 @@
 
 WARNING!!!
 
-This application is now deprecated and not maintained any more!
+This repository is now deprecated and not maintained any more!
 
 WARNING!!!
 
